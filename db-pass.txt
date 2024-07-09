@@ -1,0 +1,2 @@
+lance-hotel supabase db
+pass:jQ8tn6TWjvHsJiIQ
