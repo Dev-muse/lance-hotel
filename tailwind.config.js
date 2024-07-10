@@ -35,6 +35,9 @@ module.exports = {
           950: "#382814",
         },
       },
+      animation: {
+        "spin-slow": "spin 3s linear infinite",
+      },
     },
   },
   plugins: [],
